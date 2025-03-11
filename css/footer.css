@@ -38,13 +38,13 @@ footer {
 
 
 .middle-footer {
-    background: none !important;
-    background-color: transparent !important;
+    background: none;
+    background-color: transparent ;
     padding: 5px 0;
     display: flex;
     justify-content: center;
     gap: 20px;
-    border: none !important;
+    border: none;
 }
 
 
@@ -55,22 +55,22 @@ footer {
 }
 
 .middle-footer nav a {
-    background: none !important;
-    background-color: transparent !important;
+    background: none;
+    background-color: transparent;
     color: black;
     font-size: 13px;
     font-weight: bold;
     padding: 5px 10px;
-    border: none !important;
-    box-shadow: none !important;
+    border: none ;
+    box-shadow: none ;
     text-decoration: none;
 }
 
 .middle-footer * {
-    background: none !important;
-    background-color: transparent !important;
-    border: none !important;
-    box-shadow: none !important;
+    background: none ;
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
 }
 
 .middle-footer nav a:hover {
